@@ -11,7 +11,7 @@ email: info@clojurebridge.org
 description: > # this means to ignore newlines until "baseurl:"
   Free, beginner-friendly Clojure programming workshops for
   underrepresented groups | ClojureBridge
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/ya-cb" # the subpath of your site, e.g. /blog
 url: "http://clojurebridge.org" # the base hostname & protocol for your site
 twitter_username: clojurebridge
 github_username:  clojurebridge
